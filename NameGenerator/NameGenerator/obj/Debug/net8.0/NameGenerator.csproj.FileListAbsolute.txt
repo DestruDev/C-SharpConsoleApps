@@ -1,0 +1,14 @@
+C:\Users\deric\source\repos\Console Apps C#\NameGenerator\NameGenerator\bin\Debug\net8.0\NameGenerator.exe
+C:\Users\deric\source\repos\Console Apps C#\NameGenerator\NameGenerator\bin\Debug\net8.0\NameGenerator.deps.json
+C:\Users\deric\source\repos\Console Apps C#\NameGenerator\NameGenerator\bin\Debug\net8.0\NameGenerator.runtimeconfig.json
+C:\Users\deric\source\repos\Console Apps C#\NameGenerator\NameGenerator\bin\Debug\net8.0\NameGenerator.dll
+C:\Users\deric\source\repos\Console Apps C#\NameGenerator\NameGenerator\bin\Debug\net8.0\NameGenerator.pdb
+C:\Users\deric\source\repos\Console Apps C#\NameGenerator\NameGenerator\obj\Debug\net8.0\NameGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deric\source\repos\Console Apps C#\NameGenerator\NameGenerator\obj\Debug\net8.0\NameGenerator.AssemblyInfoInputs.cache
+C:\Users\deric\source\repos\Console Apps C#\NameGenerator\NameGenerator\obj\Debug\net8.0\NameGenerator.AssemblyInfo.cs
+C:\Users\deric\source\repos\Console Apps C#\NameGenerator\NameGenerator\obj\Debug\net8.0\NameGenerator.csproj.CoreCompileInputs.cache
+C:\Users\deric\source\repos\Console Apps C#\NameGenerator\NameGenerator\obj\Debug\net8.0\NameGenerator.dll
+C:\Users\deric\source\repos\Console Apps C#\NameGenerator\NameGenerator\obj\Debug\net8.0\refint\NameGenerator.dll
+C:\Users\deric\source\repos\Console Apps C#\NameGenerator\NameGenerator\obj\Debug\net8.0\NameGenerator.pdb
+C:\Users\deric\source\repos\Console Apps C#\NameGenerator\NameGenerator\obj\Debug\net8.0\NameGenerator.genruntimeconfig.cache
+C:\Users\deric\source\repos\Console Apps C#\NameGenerator\NameGenerator\obj\Debug\net8.0\ref\NameGenerator.dll

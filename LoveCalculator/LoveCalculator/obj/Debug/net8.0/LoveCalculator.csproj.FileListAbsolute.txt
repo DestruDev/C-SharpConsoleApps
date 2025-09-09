@@ -1,0 +1,14 @@
+C:\Users\deric\source\repos\Console Apps C#\LoveCalculator\LoveCalculator\bin\Debug\net8.0\LoveCalculator.exe
+C:\Users\deric\source\repos\Console Apps C#\LoveCalculator\LoveCalculator\bin\Debug\net8.0\LoveCalculator.deps.json
+C:\Users\deric\source\repos\Console Apps C#\LoveCalculator\LoveCalculator\bin\Debug\net8.0\LoveCalculator.runtimeconfig.json
+C:\Users\deric\source\repos\Console Apps C#\LoveCalculator\LoveCalculator\bin\Debug\net8.0\LoveCalculator.dll
+C:\Users\deric\source\repos\Console Apps C#\LoveCalculator\LoveCalculator\bin\Debug\net8.0\LoveCalculator.pdb
+C:\Users\deric\source\repos\Console Apps C#\LoveCalculator\LoveCalculator\obj\Debug\net8.0\LoveCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deric\source\repos\Console Apps C#\LoveCalculator\LoveCalculator\obj\Debug\net8.0\LoveCalculator.AssemblyInfoInputs.cache
+C:\Users\deric\source\repos\Console Apps C#\LoveCalculator\LoveCalculator\obj\Debug\net8.0\LoveCalculator.AssemblyInfo.cs
+C:\Users\deric\source\repos\Console Apps C#\LoveCalculator\LoveCalculator\obj\Debug\net8.0\LoveCalculator.csproj.CoreCompileInputs.cache
+C:\Users\deric\source\repos\Console Apps C#\LoveCalculator\LoveCalculator\obj\Debug\net8.0\LoveCalculator.dll
+C:\Users\deric\source\repos\Console Apps C#\LoveCalculator\LoveCalculator\obj\Debug\net8.0\refint\LoveCalculator.dll
+C:\Users\deric\source\repos\Console Apps C#\LoveCalculator\LoveCalculator\obj\Debug\net8.0\LoveCalculator.pdb
+C:\Users\deric\source\repos\Console Apps C#\LoveCalculator\LoveCalculator\obj\Debug\net8.0\LoveCalculator.genruntimeconfig.cache
+C:\Users\deric\source\repos\Console Apps C#\LoveCalculator\LoveCalculator\obj\Debug\net8.0\ref\LoveCalculator.dll

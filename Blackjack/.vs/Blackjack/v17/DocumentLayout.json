@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deric\\source\\repos\\Console Apps C#\\Blackjack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17AE75A8-5525-47B7-99C0-C99A9EAF2513}|Blackjack\\Blackjack.csproj|c:\\users\\deric\\source\\repos\\console apps c#\\blackjack\\blackjack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AE75A8-5525-47B7-99C0-C99A9EAF2513}|Blackjack\\Blackjack.csproj|solutionrelative:blackjack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deric\\source\\repos\\Console Apps C#\\Blackjack\\Blackjack\\Program.cs",
+              "RelativeDocumentMoniker": "Blackjack\\Program.cs",
+              "ToolTip": "C:\\Users\\deric\\source\\repos\\Console Apps C#\\Blackjack\\Blackjack\\Program.cs",
+              "RelativeToolTip": "Blackjack\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:43:54.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
